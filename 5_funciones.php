@@ -1,4 +1,26 @@
 <?php
+
+// $factor = 5;
+
+// $suma = function ($a, $b) {
+//   return $a + $b;
+// };
+// echo $suma(3, 4); // Salida: 7
+
+// $multiplicacion = fn ($a, $b) => $a * $b;
+// Llamar a la función flecha a través de la variable
+// echo $multiplicacion(3, 4); // Salida: 12
+
+//El operador (...) recupera varios valores y los almacena en un array
+// function addAll(...$numbers){
+//   $total=0;
+//   foreach($numbers as $number){
+//     $total+=$number;
+//   }
+//   return $total;
+// }
+// echo addAll(1,2,3,4,5);
+
 $listings = [
   [
     'id' => 1,
